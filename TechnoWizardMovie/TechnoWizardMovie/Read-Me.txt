@@ -1,0 +1,10 @@
+// RoryMovie Read-me
+Did the beginning jazz for a while, however i have been having troubles getting a database to inititate.
+I realized that I already had instances of the same name Databases on the server already. 
+I then found myphp.admin so I could control the databases on the server that I have created.
+So far I have contributed at least 2 - 3 weeks of work failing to realize that the Instances of Databases I have
+already created were causing problems. I am going to try to create Crud files with views....
+I have tried changing things around, and trying to create my Database, and crud files any way possible.
+At this point I have barely accomplished anything in this project. Sorry Andrew :(...
+I worked really hard to solve my problem, and completed the assignment as asked. Thanks for 
+all your support.
